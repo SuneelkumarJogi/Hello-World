@@ -1,2 +1,2 @@
 # Hello-World
-My First New sample Repo
+My First New sample Repository 
